@@ -1,0 +1,18 @@
+
+
+
+GET - Buscar informações
+POST - Cadastrar informações
+
+PUT - Fazer alterações de todos os campos
+PATCH - Para fazer alteração de alguns campos
+
+DELETE - Apagar as informações
+
+Web - HTML  .... Amaram as coisas por suas tags
+SOAP - XML  ....
+
+
+REST - GET, POST, PUT, DELETE ... MInimo para uma App rest  - (JSON ou XML)
+
+RESTFULL - GET, POST, PUT, DELETE ... Responde por formatos diferentes Ex. HTML, JSON, XML, CSV  
